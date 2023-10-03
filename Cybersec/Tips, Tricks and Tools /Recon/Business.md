@@ -1,8 +1,9 @@
-# Tips
+# Information Gathering - Business
+## Tips
 - Comece pelo mais simples
-# Tricks
+## Tricks
 ?
-# Tools
+## Tools
 ### Metadados
 https://exiftool.org/
 
